@@ -10,17 +10,14 @@ class Student
 =begin
   this method will take the enrollments object array and determine a gpa
   GPA is calculated as follows:
-  4 points for each A
-  3 points for each B
-  2 points for each C
-  1 point for each D
-  0 for each F
-  The total number of points divided by
-  total number of credits
+  4 * course credit hours for each A
+  3 * course credit hours points for each B
+  2 * course credit hours points for each C
+  1 * course credit hours point for each D
+  0 * course credit hours for each F
+  GPA = The total number of course points divided by total number of credits
   the result should be a floating point number
 =end
   def gpa
-
-
   end
 end

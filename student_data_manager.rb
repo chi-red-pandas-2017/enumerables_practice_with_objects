@@ -78,5 +78,3 @@ module StudentDataManager
     end
   end
 end
-
-p StudentDataManager.load_students

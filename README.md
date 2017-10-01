@@ -12,6 +12,8 @@ Data is provided and loaded into the runner for you.  Driver code is already pro
 
 Start with the `gpa` method in the student class.  That will be required to move on to release 1.  The details of what is required in the method are provided in the comment.  Feel free to make smaller single responsibility methods as needed.
 
+If you are having trouble with the formula see the `Example Student Transcript` table on [this site](http://www.back2college.com/gpa.htm)
+
 ## Release 1
 
 Work through the methods in the `student_report.rb` file from top to bottom.  You may end up refactoring as you further implement methods.  The details of what is required in the method are provided in the comment above each method.  Feel free to make smaller single responsibility methods as needed.
