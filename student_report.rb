@@ -23,7 +23,7 @@ class StudentReport
   end
 
   # returns an array of student names with GPA below 2.5
-  def stuggling_students
+  def struggling_students
   end
 
   # returns the name of the student at the specific numerical rank

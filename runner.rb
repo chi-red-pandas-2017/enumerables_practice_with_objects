@@ -14,7 +14,7 @@ puts "========================================"
 puts students.first.gpa
 puts
 
-# There are 30 total students
+# There are 100 total students
 puts "Student Count"
 puts "========================================"
 puts report.student_count
@@ -35,9 +35,9 @@ puts "========================================"
 puts report.top_ten
 puts
 
-puts "Stuggling Students"
+puts "Struggling Students"
 puts "========================================"
-puts report.stuggling_students
+puts report.struggling_students
 puts
 
 puts "Student at rank 10"

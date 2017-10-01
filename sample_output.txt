@@ -1,0 +1,338 @@
+GPA of first student
+========================================
+2.6422018348623855
+
+Student Count
+========================================
+100
+
+Valedictorian
+========================================
+Lois Griffin
+
+Salutatorian
+========================================
+Natasha Yar
+
+Top 10
+========================================
+Lois Griffin
+Natasha Yar
+Bail Organa
+Benjamin Sisko
+Marshall Eriksen
+Geordi La Forge
+George Van Smoot
+Meg Griffin
+Brandine Spuckler
+Phineas Nigellus Black
+
+Struggling Students
+========================================
+Lucius Malfoy
+Elizabeth Hoover
+Carter Pewterschmidt
+Joey Tribbiani
+Allison Taylor
+Nyota Uhuru
+Peter Griffin
+Mary Cattermole
+Hammond Druthers
+Radioactive Man
+Janice Goralnik
+Dave Shutton
+Kathryn Janeway
+Baby Legs
+Karen Griffin
+Darth Sidious
+Wedge Antilles
+Poor Violet
+Dudley Dursley
+Darth Vader
+William Zabka
+Jabba the Hutt
+Ben Solo
+Remus Lupin
+Tricia Takanawa
+Padme Amidala
+Wendy the Waitress
+Kingsley Shacklebolt
+Don Frank
+Miss Chanandler Bong
+Rabastan Lestrange
+Stewie Griffin
+Bonnie Swanson
+Coach Lugash
+Monica Geller
+Nelson Muntz
+Rachel Green
+Sanjay Nahasapeemapetilon
+Malcolm Reed
+Cousin Nicky
+Joyce Kinney
+Mayor Adam West
+Richard Burke
+Scott Christian
+Reverend Timothy Lovejoy
+Mace Windu
+Pavel Chekov
+Kylo Ren
+Sandy Rivers
+Virginia Mosby
+Evil Morty
+Gary Blauman
+Barabara Pewterschmidt
+Rune Haako
+Waylon Smithers
+Principal Shephard
+Jonathan Archer
+Doug Martin
+Penny Mosby
+Shrimply Pibbles
+Quinn Garvey
+Evil Monkey
+Stella Zinman
+Sturgis Podmore
+
+Student at rank 10
+========================================
+Phineas Nigellus Black
+
+Student at rank 15
+========================================
+Travis Mayweather
+
+Student at unknown position
+========================================
+Rank Not Found
+
+Rank for Joey Tribbiani
+========================================
+99
+
+Rank for Ted Mosby
+========================================
+20
+
+Rank for unknown student
+========================================
+Student Not Found
+
+
+Student Name                  GPA
+=========================     ===============
+Alan Thicke                   2.5904761904761906
+Allison Taylor                1.851063829787234
+Arthur Weasley                2.5113636363636362
+Augusta Longbottom            2.6826923076923075
+Baby Legs                     2.415929203539823
+Bail Organa                   3.0
+Barabara Pewterschmidt        2.292452830188679
+Ben Solo                      2.0416666666666665
+Benjamin Sisko                2.85
+Beverly Crusher               2.6016260162601625
+Bonnie Swanson                2.2950819672131146
+Brandine Spuckler             2.7578947368421054
+Carter Pewterschmidt          2.317757009345794
+Chris Griffin                 2.5445544554455446
+Coach Lugash                  2.460674157303371
+Count Dooku                   2.5
+Cousin Nicky                  2.0545454545454547
+Crazy Cat Lady                2.580246913580247
+Darth Sidious                 1.841121495327103
+Darth Vader                   2.1923076923076925
+Dave Shutton                  2.247311827956989
+Deanna Troi                   2.6486486486486487
+Don Frank                     2.075
+Doug Martin                   2.4774774774774775
+Dudley Dursley                1.941860465116279
+Elizabeth Hoover              2.1875
+Evil Monkey                   2.350515463917526
+Evil Morty                    1.989010989010989
+Gary Blauman                  2.150943396226415
+Geordi La Forge               2.802197802197802
+George Van Smoot              2.787037037037037
+Hammond Druthers              2.2427184466019416
+Jabba the Hutt                2.0816326530612246
+Janice Goralnik               2.3043478260869565
+Jar Jar Binks                 2.5327868852459017
+Joey Tribbiani                1.7625
+Johnny Tightlips              2.7176470588235295
+Jonathan Archer               2.2767857142857144
+Joyce Kinney                  2.152542372881356
+Karen Griffin                 2.366336633663366
+Kathryn Janeway               2.30327868852459
+Kingsley Shacklebolt          2.489795918367347
+Kylo Ren                      2.1848739495798317
+Lily Aldrin                   2.6125
+Ling Bouvier                  2.7241379310344827
+Lois Griffin                  3.0602409638554215
+Lucius Malfoy                 2.25
+Mace Windu                    1.9880952380952381
+Malcolm Reed                  2.1346153846153846
+Marshall Eriksen              2.8214285714285716
+Mary Cattermole               2.2358490566037736
+Mayor Adam West               2.0849056603773586
+Meg Griffin                   2.759493670886076
+Mickey Aldrin                 2.6
+Miss Chanandler Bong          2.2357723577235773
+Monica Geller                 2.3978494623655915
+Montgomery Scott              2.5057471264367814
+Mort Goldman                  2.644230769230769
+Morty Smith                   2.6422018348623855
+Natasha Yar                   3.0
+Nelson Muntz                  2.2735849056603774
+Nyota Uhuru                   2.267857142857143
+Obi-Wan Kenobi                2.5408163265306123
+Padme Amidala                 2.2389380530973453
+Pavel Chekov                  2.297872340425532
+Penny Mosby                   2.4945054945054945
+Peter Griffin                 1.9907407407407407
+Phineas Nigellus Black        2.7529411764705882
+Poe Dameron                   2.617391304347826
+Poor Violet                   2.2705882352941176
+Principal Shephard            2.4074074074074074
+Quinn Garvey                  1.5121951219512195
+Rabastan Lestrange            2.4022988505747125
+Rachel Green                  2.441860465116279
+Radioactive Man               2.4216867469879517
+Ranjit Singh                  2.5585585585585586
+Remus Lupin                   2.402061855670103
+Reverend Timothy Lovejoy      2.3402061855670104
+Richard Burke                 2.4921875
+Ross Geller                   2.556451612903226
+Rune Haako                    1.831578947368421
+Sandy Rivers                  2.2695652173913046
+Sanjay Nahasapeemapetilon     2.371900826446281
+Scott Christian               2.3865546218487395
+Shrimply Pibbles              2.182795698924731
+Snake Jailbird                2.7115384615384617
+Stella Zinman                 2.146788990825688
+Stewie Griffin                2.172043010752688
+Stuart Bowers                 2.5053763440860215
+Sturgis Podmore               2.289473684210526
+Ted Mosby                     2.6226415094339623
+Travis Mayweather             2.6777777777777776
+Tricia Takanawa               2.0344827586206895
+Virginia Mosby                2.0617283950617282
+Waylon Smithers               1.941860465116279
+Wedge Antilles                2.369565217391304
+Wendy the Waitress            2.1149425287356323
+Wilky Twycross                2.50561797752809
+William Zabka                 2.2941176470588234
+Zoey Pierson                  2.6530612244897958
+
+
+Student Report
+==============
+
+Valedictorian: Lois Griffin
+Salutatorian: Natasha Yar
+
+Top Ten: Lois Griffin, Natasha Yar, Bail Organa, Benjamin Sisko, Marshall Eriksen, Geordi La Forge, George Van Smoot, Meg Griffin, Brandine Spuckler, Phineas Nigellus Black
+
+Struggling: Lucius Malfoy, Elizabeth Hoover, Carter Pewterschmidt, Joey Tribbiani, Allison Taylor, Nyota Uhuru, Peter Griffin, Mary Cattermole, Hammond Druthers, Radioactive Man, Janice Goralnik, Dave Shutton, Kathryn Janeway, Baby Legs, Karen Griffin, Darth Sidious, Wedge Antilles, Poor Violet, Dudley Dursley, Darth Vader, William Zabka, Jabba the Hutt, Ben Solo, Remus Lupin, Tricia Takanawa, Padme Amidala, Wendy the Waitress, Kingsley Shacklebolt, Don Frank, Miss Chanandler Bong, Rabastan Lestrange, Stewie Griffin, Bonnie Swanson, Coach Lugash, Monica Geller, Nelson Muntz, Rachel Green, Sanjay Nahasapeemapetilon, Malcolm Reed, Cousin Nicky, Joyce Kinney, Mayor Adam West, Richard Burke, Scott Christian, Reverend Timothy Lovejoy, Mace Windu, Pavel Chekov, Kylo Ren, Sandy Rivers, Virginia Mosby, Evil Morty, Gary Blauman, Barabara Pewterschmidt, Rune Haako, Waylon Smithers, Principal Shephard, Jonathan Archer, Doug Martin, Penny Mosby, Shrimply Pibbles, Quinn Garvey, Evil Monkey, Stella Zinman, Sturgis Podmore
+
+Student Name                  GPA
+=========================     ===============
+Alan Thicke                   2.5904761904761906
+Allison Taylor                1.851063829787234
+Arthur Weasley                2.5113636363636362
+Augusta Longbottom            2.6826923076923075
+Baby Legs                     2.415929203539823
+Bail Organa                   3.0
+Barabara Pewterschmidt        2.292452830188679
+Ben Solo                      2.0416666666666665
+Benjamin Sisko                2.85
+Beverly Crusher               2.6016260162601625
+Bonnie Swanson                2.2950819672131146
+Brandine Spuckler             2.7578947368421054
+Carter Pewterschmidt          2.317757009345794
+Chris Griffin                 2.5445544554455446
+Coach Lugash                  2.460674157303371
+Count Dooku                   2.5
+Cousin Nicky                  2.0545454545454547
+Crazy Cat Lady                2.580246913580247
+Darth Sidious                 1.841121495327103
+Darth Vader                   2.1923076923076925
+Dave Shutton                  2.247311827956989
+Deanna Troi                   2.6486486486486487
+Don Frank                     2.075
+Doug Martin                   2.4774774774774775
+Dudley Dursley                1.941860465116279
+Elizabeth Hoover              2.1875
+Evil Monkey                   2.350515463917526
+Evil Morty                    1.989010989010989
+Gary Blauman                  2.150943396226415
+Geordi La Forge               2.802197802197802
+George Van Smoot              2.787037037037037
+Hammond Druthers              2.2427184466019416
+Jabba the Hutt                2.0816326530612246
+Janice Goralnik               2.3043478260869565
+Jar Jar Binks                 2.5327868852459017
+Joey Tribbiani                1.7625
+Johnny Tightlips              2.7176470588235295
+Jonathan Archer               2.2767857142857144
+Joyce Kinney                  2.152542372881356
+Karen Griffin                 2.366336633663366
+Kathryn Janeway               2.30327868852459
+Kingsley Shacklebolt          2.489795918367347
+Kylo Ren                      2.1848739495798317
+Lily Aldrin                   2.6125
+Ling Bouvier                  2.7241379310344827
+Lois Griffin                  3.0602409638554215
+Lucius Malfoy                 2.25
+Mace Windu                    1.9880952380952381
+Malcolm Reed                  2.1346153846153846
+Marshall Eriksen              2.8214285714285716
+Mary Cattermole               2.2358490566037736
+Mayor Adam West               2.0849056603773586
+Meg Griffin                   2.759493670886076
+Mickey Aldrin                 2.6
+Miss Chanandler Bong          2.2357723577235773
+Monica Geller                 2.3978494623655915
+Montgomery Scott              2.5057471264367814
+Mort Goldman                  2.644230769230769
+Morty Smith                   2.6422018348623855
+Natasha Yar                   3.0
+Nelson Muntz                  2.2735849056603774
+Nyota Uhuru                   2.267857142857143
+Obi-Wan Kenobi                2.5408163265306123
+Padme Amidala                 2.2389380530973453
+Pavel Chekov                  2.297872340425532
+Penny Mosby                   2.4945054945054945
+Peter Griffin                 1.9907407407407407
+Phineas Nigellus Black        2.7529411764705882
+Poe Dameron                   2.617391304347826
+Poor Violet                   2.2705882352941176
+Principal Shephard            2.4074074074074074
+Quinn Garvey                  1.5121951219512195
+Rabastan Lestrange            2.4022988505747125
+Rachel Green                  2.441860465116279
+Radioactive Man               2.4216867469879517
+Ranjit Singh                  2.5585585585585586
+Remus Lupin                   2.402061855670103
+Reverend Timothy Lovejoy      2.3402061855670104
+Richard Burke                 2.4921875
+Ross Geller                   2.556451612903226
+Rune Haako                    1.831578947368421
+Sandy Rivers                  2.2695652173913046
+Sanjay Nahasapeemapetilon     2.371900826446281
+Scott Christian               2.3865546218487395
+Shrimply Pibbles              2.182795698924731
+Snake Jailbird                2.7115384615384617
+Stella Zinman                 2.146788990825688
+Stewie Griffin                2.172043010752688
+Stuart Bowers                 2.5053763440860215
+Sturgis Podmore               2.289473684210526
+Ted Mosby                     2.6226415094339623
+Travis Mayweather             2.6777777777777776
+Tricia Takanawa               2.0344827586206895
+Virginia Mosby                2.0617283950617282
+Waylon Smithers               1.941860465116279
+Wedge Antilles                2.369565217391304
+Wendy the Waitress            2.1149425287356323
+Wilky Twycross                2.50561797752809
+William Zabka                 2.2941176470588234
+Zoey Pierson                  2.6530612244897958
+
