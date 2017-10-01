@@ -50,6 +50,32 @@ puts "========================================"
 puts report.student_at_rank(15)
 puts
 
+puts "Student at unknown position"
+puts "========================================"
+begin
+  report.student_at_rank(150)
+rescue Exception => e
+  puts e.message
+end
+
+puts "Rank for Joey Tribbiani"
+puts "========================================"
+puts report.rank_for_student("Joey Tribbiani")
+puts
+
+puts "Rank for Ted Mosby"
+puts "========================================"
+puts report.rank_for_student("Ted Mosby")
+puts
+
+puts "Rank for unknown student"
+puts "========================================"
+begin
+  report.rank_for_student("Buffy Summers")
+rescue Exception => e
+  puts e.message
+end
+
 puts
 report.gpa_report
 puts

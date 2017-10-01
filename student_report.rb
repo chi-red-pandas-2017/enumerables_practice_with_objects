@@ -27,8 +27,13 @@ class StudentReport
   end
 
   # returns the name of the student at the specific numerical rank
-  # if the rank is out of bounds, throw an error "Rank not found"
+  # if the rank is out of bounds, raise an error "Rank not found"
   def student_at_rank(rank)
+  end
+
+  # given a student name, return their class rank (1 based!)
+  # if the student is not found, raise an error "Student not found"
+  def rank_for_student(name)
   end
 
 =begin
