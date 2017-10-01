@@ -57,6 +57,7 @@ begin
 rescue Exception => e
   puts e.message
 end
+puts
 
 puts "Rank for Joey Tribbiani"
 puts "========================================"
@@ -75,6 +76,7 @@ begin
 rescue Exception => e
   puts e.message
 end
+puts
 
 puts
 report.gpa_report
