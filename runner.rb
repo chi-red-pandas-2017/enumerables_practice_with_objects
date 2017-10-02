@@ -1,24 +1,27 @@
 require_relative './student_report'
 require_relative './student_data_manager'
+require_relative './student'
 
 # getStudentData is defined in data.rb
 
 students = StudentDataManager.load_students
 report = StudentReport.new(students: students)
 
-# Driver code for testing all the methods
+# students.first.convert_grade_to_numbers
 
-# work on the gpa method in student.rb first!
+# Driver code for testing all the methods
+# # work on the gpa method in student.rb first!
 puts "GPA of first student"
 puts "========================================"
 puts students.first.gpa
 puts
 
-# There are 100 total students
+# # There are 100 total students
 puts "Student Count"
 puts "========================================"
 puts report.student_count
 puts
+
 
 puts "Valedictorian"
 puts "========================================"
@@ -69,19 +72,19 @@ puts "========================================"
 puts report.rank_for_student("Ted Mosby")
 puts
 
-puts "Rank for unknown student"
-puts "========================================"
-begin
-  report.rank_for_student("Buffy Summers")
-rescue Exception => e
-  puts e.message
-end
-puts
+# puts "Rank for unknown student"
+# puts "========================================"
+# begin
+#   report.rank_for_student("Buffy Summers")
+# rescue Exception => e
+#   puts e.message
+# end
+# puts
 
-puts
-report.gpa_report
-puts
+# puts
+# report.gpa_report
+# puts
 
-puts
-report.full_report
-puts
+# puts
+# report.full_report
+# puts
