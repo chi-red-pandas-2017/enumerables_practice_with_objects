@@ -19,5 +19,22 @@ class Student
   the result should be a floating point number
 =end
   def gpa
+  course_points = 0.0
+    enrollments.each do |enrollment|
+      case enrollment.letter_grade
+      when "A"
+        course_points += (4 * enrollment.number_of_credits)
+      when "B"
+        course_points += (3 * enrollment.number_of_credits)
+      when "C"
+        course_points += (2 * enrollment.number_of_credits)
+      when "D"
+        course_points += (1 * enrollment.number_of_credits)
+      when "F"
+        course_points += (0 * enrollment.number_of_credits)
+      end
+    end
+    total_credits = enrollments.reduce(0) {|sum, enrollment| sum + enrollment.number_of_credits}
+      gpa = course_points / total_credits
   end
 end
