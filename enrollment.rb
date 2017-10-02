@@ -1,5 +1,6 @@
 class Enrollment
-  attr_reader :student_id, :course_name, :number_of_credits, :letter_grade
+  attr_reader :student_id, :course_name, :number_of_credits
+  attr_accessor :letter_grade
 
   def initialize(args = {})
     @student_id = args[:student_id]
