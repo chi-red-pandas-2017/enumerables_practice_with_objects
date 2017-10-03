@@ -36,9 +36,13 @@ class StudentReport
 
   # returns an array of student names in ranks 1-10
 
-def top_ten
-
-end
+  def top_ten
+    student_and_gpa = students.sort_by {|student| student.gpa}
+    s_map = student_and_gpa[-10..-1].map do |student|
+      student.name
+    end
+    s_map.reverse
+  end
 
 
   # def top_ten
@@ -62,16 +66,32 @@ end
 
   # returns an array of student names with GPA below 2.5
   def struggling_students
+    #student_and_gpa = students.sort_by {|student| student.gpa}
+    # s_select = student_and_gpa.select { |student| student.gpa < 2.5 }
+    s_select = students.select { |student| student.gpa < 2.5 }
+    p s_select.map {|student| student.name}
   end
 
   # returns the name of the student at the specific numerical rank
   # if the rank is out of bounds, raise an error "Rank not found"
   def student_at_rank(rank)
+    student_and_gpa = students.sort_by {|student| student.gpa}
+    student_object_at_rank = student_and_gpa.reverse[rank - 1]
+    # student_object_at_rank.name
+    if rank > student_and_gpa.length - 1
+      puts " Rank not found"
+    else
+      student_object_at_rank.name
+    end
   end
 
   # given a student name, return their class rank (1 based!)
   # if the student is not found, raise an error "Student not found"
   def rank_for_student(name)
+    s = students.find {|student| student.name == name }
+    students_and_gpa = students.sort_by {|student| student.gpa}
+    final_array = students_and_gpa.reverse
+    final_array.index(s) + 1
   end
 
 =begin
