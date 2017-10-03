@@ -35,6 +35,11 @@ class StudentReport
   end
 
   # returns an array of student names in ranks 1-10
+  # input: n/a
+  # #   1. Rank students by GPA by descending order (sort)
+  #     2. Find top 10 ranked students (select - many)
+  #     3. Return their names
+  #     output: list of student names array
 
   def top_ten
     student_and_gpa = students.sort_by {|student| student.gpa}
